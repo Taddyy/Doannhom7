@@ -44,7 +44,6 @@ Các tài liệu thiết kế và phân tích hệ thống được lưu trữ t
 **Yêu cầu:**
 * Cài đặt Git
 * Cài đặt Node.js (phiên bản 16.x trở lên)
-* `[Liệt kê thêm các yêu cầu khác nếu có, ví dụ: Docker, Python...]`
 
 **Các bước cài đặt:**
 
